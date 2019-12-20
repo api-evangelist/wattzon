@@ -1,0 +1,69 @@
+{
+    "name": "WattzOn",
+    "description": "WattzOn liberates data with two flagship products: MR BILL is a machine learning system that extracts data from structured documents such as invoices, utility bills, and healthcare records. LINK is the industry-leading vertical API for utility data, co...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/277-wattzon.jpg",
+    "tags": [
+        "buildings",
+        "energy",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/wattzon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WattzOn",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/277-wattzon.jpg",
+            "humanURL": "http:\/\/www.wattzon.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wattzon-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wattzon-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.wattzon.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.wattzon.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/wattzon"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wattzon"
+        },
+        {
+            "type": "Email",
+            "url": "info@wattzon.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/WattzOn"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/wattzon"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.wattzon.com\/"
+        }
+    ]
+}
